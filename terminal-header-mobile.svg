@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="740" viewBox="0 0 600 740" role="img" aria-labelledby="terminal-title terminal-desc">
+  <title id="terminal-title">Mahesh Abburi — quantitative research, development and systematic trading</title>
+  <desc id="terminal-desc">A compact trading-terminal profile. Assistant Vice President at Edelweiss Global Markets. Research scope: Indian and US index and stock derivatives. Co-managing a 42-million-dollar portfolio in a two-person team. One execution engine for more than 40 strategies. The signal chart is synthetic.</desc>
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace">
+    <rect width="600" height="740" fill="#090d12"/>
+    <rect x=".5" y=".5" width="599" height="739" fill="none" stroke="#34424f"/>
+    <rect x="1" y="1" width="598" height="34" fill="#18212b"/>
+    <rect x="18" y="12" width="10" height="10" fill="#f6b94a"/>
+    <text x="40" y="24" fill="#f6b94a" font-size="17" letter-spacing=".4">MA / RESEARCH TERMINAL</text>
+    <text x="578" y="24" text-anchor="end" fill="#a4b1bd" font-size="17">01</text>
+    <rect x="1" y="35" width="598" height="35" fill="#10171f"/>
+    <rect x="18" y="43" width="115" height="26" fill="#f6b94a"/>
+    <text x="75" y="61" text-anchor="middle" fill="#131820" font-size="16" font-weight="700">OVERVIEW</text>
+    <text x="157" y="61" fill="#9eacb9" font-size="16">RESEARCH</text>
+    <text x="286" y="61" fill="#9eacb9" font-size="16">SYSTEMS</text>
+    <text x="405" y="61" fill="#9eacb9" font-size="16">PROJECTS</text>
+    <path d="M1 70H599" stroke="#34424f"/>
+
+    <text x="25" y="133" fill="#f0f3f5" font-size="57" font-weight="700" letter-spacing="-3">Mahesh Abburi</text>
+    <text x="26" y="175" fill="#f6b94a" font-size="27" letter-spacing="-.5">Quant Researcher · Developer</text>
+    <text x="26" y="209" fill="#f6b94a" font-size="27" letter-spacing="-.5">&amp; Systematic Trader</text>
+    <text x="26" y="250" fill="#bcc7d1" font-size="25">AVP / Edelweiss Global Markets</text>
+    <path d="M26 275H574" stroke="#293641"/>
+    <text x="26" y="304" fill="#8c9eaf" font-size="17" letter-spacing="1.6">RESEARCH SCOPE</text>
+    <text x="26" y="339" fill="#f0f3f5" font-size="29" font-weight="600">INDIA + US</text>
+    <text x="26" y="374" fill="#bcc7d1" font-size="27">Index &amp; stock derivatives</text>
+
+    <rect x="20.5" y="401.5" width="271" height="112" fill="#111923" stroke="#34424f"/>
+    <rect x="20" y="401" width="4" height="113" fill="#f6b94a"/>
+    <text x="39" y="450" fill="#f6b94a" font-size="45" font-weight="700" letter-spacing="-2">$42M</text>
+    <text x="39" y="481" fill="#d0d8df" font-size="25">Co-managed</text>
+    <text x="39" y="508" fill="#d0d8df" font-size="25">portfolio</text>
+
+    <rect x="308.5" y="401.5" width="271" height="112" fill="#111923" stroke="#34424f"/>
+    <rect x="308" y="401" width="4" height="113" fill="#74d69c"/>
+    <text x="328" y="450" fill="#74d69c" font-size="45" font-weight="700" letter-spacing="-2">02</text>
+    <text x="328" y="489" fill="#d0d8df" font-size="25">Team members</text>
+
+    <rect x="20.5" y="529.5" width="559" height="87" fill="#111923" stroke="#34424f"/>
+    <rect x="20" y="529" width="4" height="88" fill="#48d7d0"/>
+    <text x="39" y="585" fill="#48d7d0" font-size="45" font-weight="700" letter-spacing="-2">40+</text>
+    <path d="M154 546V600" stroke="#34424f"/>
+    <text x="177" y="563" fill="#d0d8df" font-size="25">Strategies / one</text>
+    <text x="177" y="597" fill="#d0d8df" font-size="25">execution engine</text>
+
+    <text x="22" y="647" fill="#8c9eaf" font-size="16" letter-spacing=".8">SIGNAL LAB / SYNTHETIC SPREAD</text>
+    <path d="M22 680H577" stroke="#f6b94a" stroke-opacity=".45" stroke-dasharray="4 7"/>
+    <path d="M22 681L34 673L46 678L58 661L70 666L82 685L94 679L106 690L118 700L130 688L142 692L154 681L166 674L178 684L190 670L202 677L214 662L226 670L238 682L250 675L262 687L274 679L286 695L298 684L310 690L322 678L334 682L346 670L358 676L370 663L382 674L394 679L406 672L418 686L430 679L442 696L454 685L466 690L478 680L490 685L502 673L514 681L526 669L538 678L550 674L562 683L578 679" fill="none" stroke="#48d7d0" stroke-width="2.2" stroke-linejoin="round"/>
+    <text x="22" y="728" fill="#74d69c" font-size="17" letter-spacing=".5">RESEARCH. BUILD. TRADE.</text>
+    <text x="578" y="728" text-anchor="end" fill="#f6b94a" font-size="17">▌</text>
+  </g>
+</svg>

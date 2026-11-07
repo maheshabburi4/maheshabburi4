@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="terminal-title terminal-desc">
+  <title id="terminal-title">Mahesh Abburi — quantitative research, development and systematic trading</title>
+  <desc id="terminal-desc">Trading-terminal-inspired profile. Assistant Vice President at Edelweiss Global Markets, researching Indian and US index and stock derivatives. Co-managing a 42-million-dollar portfolio in a two-person team, with an execution engine for more than 40 strategies. The chart is an illustrative synthetic spread.</desc>
+  <defs>
+    <linearGradient id="spread-fill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#48d7d0" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#48d7d0" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="plot-clip"><rect x="776" y="164" width="374" height="124"/></clipPath>
+  </defs>
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace">
+    <rect width="1200" height="480" fill="#090d12"/>
+    <rect x=".5" y=".5" width="1199" height="479" fill="none" stroke="#34424f"/>
+
+    <!-- Terminal chrome. -->
+    <rect x="1" y="1" width="1198" height="34" fill="#18212b"/>
+    <rect x="18" y="12" width="10" height="10" fill="#f6b94a"/>
+    <text x="39" y="23" fill="#f6b94a" font-size="15" letter-spacing="1.1">MA / RESEARCH TERMINAL</text>
+    <text x="1180" y="23" text-anchor="end" fill="#a4b1bd" font-size="15">PROFILE // 01</text>
+    <rect x="1" y="35" width="1198" height="35" fill="#10171f"/>
+    <rect x="19" y="43" width="115" height="26" fill="#f6b94a"/>
+    <text x="76" y="61" text-anchor="middle" fill="#131820" font-size="15" font-weight="700">OVERVIEW</text>
+    <text x="159" y="60" fill="#a4b1bd" font-size="15">RESEARCH</text>
+    <text x="286" y="60" fill="#a4b1bd" font-size="15">SYSTEMS</text>
+    <text x="402" y="60" fill="#a4b1bd" font-size="15">PROJECTS</text>
+    <text x="1180" y="60" text-anchor="end" fill="#74d69c" font-size="15">RESEARCH. BUILD. TRADE.</text>
+    <path d="M1 70H1199" stroke="#34424f"/>
+
+    <!-- Identity and research coverage. -->
+    <text x="28" y="145" fill="#f0f3f5" font-size="62" font-weight="700" letter-spacing="-3.5">Mahesh Abburi</text>
+    <text x="31" y="185" fill="#f6b94a" font-size="22" letter-spacing="-.5">Quant Researcher · Developer · Systematic Trader</text>
+    <text x="31" y="220" fill="#bcc7d1" font-size="23">AVP / Edelweiss Global Markets</text>
+    <path d="M31 245H701" stroke="#293641"/>
+    <text x="31" y="272" fill="#8c9eaf" font-size="15" letter-spacing="1.5">RESEARCH SCOPE</text>
+    <text x="31" y="307" fill="#f0f3f5" font-size="26" font-weight="600">INDIA + US</text>
+    <path d="M211 286V312" stroke="#435160"/>
+    <text x="234" y="307" fill="#bcc7d1" font-size="22">Index &amp; stock derivatives</text>
+
+    <!-- Clearly synthetic signal illustration, not returns or market prices. -->
+    <rect x="744.5" y="92.5" width="435" height="228" fill="#0e151c" stroke="#34424f"/>
+    <rect x="745" y="93" width="434" height="35" fill="#151e27"/>
+    <text x="762" y="116" fill="#48d7d0" font-size="16" letter-spacing=".7">SIGNAL LAB</text>
+    <text x="1163" y="116" text-anchor="end" fill="#a4b1bd" font-size="15">SYNTHETIC SPREAD</text>
+    <g clip-path="url(#plot-clip)">
+      <path d="M776 164H1150M776 195H1150M776 226H1150M776 257H1150M776 288H1150M776 164V288M838 164V288M900 164V288M962 164V288M1024 164V288M1086 164V288M1148 164V288" fill="none" stroke="#263440" stroke-width="1"/>
+      <rect x="776" y="205" width="374" height="42" fill="#48d7d0" fill-opacity=".035"/>
+      <path d="M776 226H1150" stroke="#f6b94a" stroke-opacity=".65" stroke-dasharray="4 6"/>
+      <path d="M776 236L784 220L792 225L800 194L808 178L816 207L824 198L832 221L840 214L848 241L856 232L864 258L872 247L880 230L888 241L896 222L904 229L912 206L920 218L928 198L936 212L944 226L952 219L960 240L968 229L976 253L984 235L992 244L1000 226L1008 233L1016 212L1024 220L1032 195L1040 208L1048 202L1056 227L1064 219L1072 240L1080 228L1088 249L1096 237L1104 231L1112 239L1120 223L1128 228L1136 212L1144 220L1150 218L1150 288H776Z" fill="url(#spread-fill)"/>
+      <path d="M776 236L784 220L792 225L800 194L808 178L816 207L824 198L832 221L840 214L848 241L856 232L864 258L872 247L880 230L888 241L896 222L904 229L912 206L920 218L928 198L936 212L944 226L952 219L960 240L968 229L976 253L984 235L992 244L1000 226L1008 233L1016 212L1024 220L1032 195L1040 208L1048 202L1056 227L1064 219L1072 240L1080 228L1088 249L1096 237L1104 231L1112 239L1120 223L1128 228L1136 212L1144 220L1150 218" fill="none" stroke="#48d7d0" stroke-width="2.4" stroke-linejoin="round"/>
+    </g>
+    <text x="764" y="154" fill="#6f8396" font-size="15">+σ</text>
+    <text x="1157" y="231" fill="#f6b94a" font-size="18">μ</text>
+    <text x="776" y="309" fill="#8295a7" font-size="15">HYPOTHESIS → MODEL → EXECUTION</text>
+
+    <!-- Evidence tiles. -->
+    <rect x="20.5" y="341.5" width="375" height="110" fill="#111923" stroke="#34424f"/>
+    <rect x="20" y="341" width="4" height="111" fill="#f6b94a"/>
+    <text x="40" y="389" fill="#f6b94a" font-size="43" font-weight="700" letter-spacing="-2">$42M</text>
+    <text x="40" y="427" fill="#d0d8df" font-size="22">Co-managed portfolio</text>
+    <text x="376" y="368" text-anchor="end" fill="#6f8396" font-size="15">01</text>
+
+    <rect x="412.5" y="341.5" width="375" height="110" fill="#111923" stroke="#34424f"/>
+    <rect x="412" y="341" width="4" height="111" fill="#74d69c"/>
+    <text x="432" y="389" fill="#74d69c" font-size="43" font-weight="700" letter-spacing="-2">02</text>
+    <text x="432" y="427" fill="#d0d8df" font-size="22">Trading team members</text>
+    <text x="768" y="368" text-anchor="end" fill="#6f8396" font-size="15">02</text>
+
+    <rect x="804.5" y="341.5" width="375" height="110" fill="#111923" stroke="#34424f"/>
+    <rect x="804" y="341" width="4" height="111" fill="#48d7d0"/>
+    <text x="824" y="389" fill="#48d7d0" font-size="43" font-weight="700" letter-spacing="-2">40+</text>
+    <text x="824" y="427" fill="#d0d8df" font-size="22">Strategies / one engine</text>
+    <text x="1160" y="368" text-anchor="end" fill="#6f8396" font-size="15">03</text>
+
+    <text x="21" y="471" fill="#778a9c" font-size="15" letter-spacing=".6">MATHEMATICS / MARKETS / SYSTEMS</text>
+    <text x="1179" y="471" text-anchor="end" fill="#778a9c" font-size="15">maheshabburi4<tspan fill="#f6b94a"> ▌</tspan></text>
+  </g>
+</svg>
